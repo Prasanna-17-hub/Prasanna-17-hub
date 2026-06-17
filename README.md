@@ -2,16 +2,23 @@
 
 ### 🎓 Computer Science and Business Systems Engineering Student
 
-<!-- Right-side Animated GIF start -->
-<img align="right" width="380" src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif">
-<!-- Right-side Animated GIF end -->
-
-🚀 Building my skills as an undergraduate through practical projects and sharpening my programming fundamentals.  
-☕ Refining my Java coding style, improving project structure, and understanding real-world development workflows.  
-🧠 **Solved 200+ LeetCode problems** — continuously pushing forward on consistency and logic building.  
-⚡ Lo-fi mode = focus mode 🎧
-
-🎯 Currently Mastering: **Data Structures & Algorithms in Java & Full-Stack Web Development**  
+<table>
+  <tr>
+    <!-- Left Column: Text Content -->
+    <td width="60%" valign="top">
+      <br />
+      🚀 <b>Building skills:</b> Developing practical applications as an undergraduate and strengthening programming fundamentals.<br/><br/>
+      ☕ <b>Refining Java:</b> Enhancing coding style, project architecture, and studying real-world development workflows.<br/><br/>
+      🧠 <b>Problem Solving:</b> Solved 200+ LeetCode problems—continuously pushing forward on consistency and logic building.<br/><br/>
+      ⚡ <b>Lo-fi mode</b> = focus mode 🎧<br/><br/>
+      🎯 <b>Currently Mastering:</b> Data Structures & Algorithms in Java & Full-Stack Web Development.<br/><br/>
+    </td>
+    <!-- Right Column: Animated GIF -->
+    <td width="40%" valign="middle" align="center">
+      <img width="380" src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif" alt="OOP Animation">
+    </td>
+  </tr>
+</table>
 
 ✉️ How to reach me:
 
@@ -52,8 +59,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prasanna-17-hub&theme=ambient_gradient&no-frame=true&margin-w=4)
 
 ### 💻 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Prasanna-1714?theme=dark&font=IBM%20Plex%20Sans&ext=activity)](https://leetcode.com/u/Prasanna-1714/)
@@ -64,8 +69,8 @@
 ### 📈 GitHub Stats & Streak
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prasanna-17-hub&show_icons=true&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=Prasanna-17-hub&theme=ambient_gradient&hide_border=true" />
-</p>
+  <!-- <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=Prasanna-17-hub&theme=ambient_gradient&hide_border=true" />
+</p> -->
 
 <!-- Wave FOOTER start -->
 <div align="center">
@@ -74,5 +79,5 @@
 
 <!-- Footer Text start -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=250&height=20&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+PRASANNA"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=250&height=20&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+PRASANNA R"/>
 </div>
