@@ -29,7 +29,7 @@
 
 <!-- Resume Section start -->
 ### 📄 Resume
-[![Download Resume](https://img.shields.io/badge/Download_Resume-green?style=for-the-badge&logo=read-the-docs&logoColor=white)](PASTE_YOUR_PUBLIC_RESUME_LINK_HERE)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-green?style=for-the-badge&logo=read-the-docs&logoColor=white)]((https://github.com/Prasanna-17-hub/Prasanna-17-hub/blob/d16413969f1e6911a780fd5c227f31a186bff332/Prasanna%20-%20Resume%20WEB.pdf))
 <!-- Resume Section end -->
 
 <!-- Contact Section end -->
