@@ -63,14 +63,22 @@
 ### 💻 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Prasanna-1714?theme=dark&font=IBM%20Plex%20Sans&ext=activity)](https://leetcode.com/u/Prasanna-1714/)
 
-### 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna-17-hub&layout=compact&theme=ambient_gradient&hide_border=true)
+## 🐍 Contribution Snake
 
-### 📈 GitHub Stats & Streak
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prasanna-17-hub&show_icons=true&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" />
-  <!-- <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=Prasanna-17-hub&theme=ambient_gradient&hide_border=true" />
-</p> -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Prasanna-17-hub/Prasanna-17-hub/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Prasanna-17-hub/Prasanna-17-hub/output/github-contribution-grid-snake.svg">
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Prasanna-17-hub/Prasanna-17-hub/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 
 <!-- Wave FOOTER start -->
 <div align="center">
